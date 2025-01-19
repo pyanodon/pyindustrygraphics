@@ -1,0 +1,22 @@
+{
+    "name": "pyindustrygraphics",
+    "version": "3.0.0",
+    "factorio_version": "2.0",
+    "title": "Pyanodons Industry Graphics",
+    "author": "Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232",
+    "contact": "https://discord.gg/SBHM3h5Utj",
+    "homepage": "https://github.com/pyanodon/pyindustrygraphics",
+    "description": "Graphics and sounds for Pyanodons Industry.",
+    "dependencies": [
+        "~ pyindustry >= 3.0.11"
+    ],
+    "package": {
+        "ignore": [],
+        "scripts": {}
+    },
+    "quality_required": false,
+    "space_travel_required": false,
+    "spoiling_required": false,
+    "freezing_required": false,
+    "segmented_units_required": false
+}
