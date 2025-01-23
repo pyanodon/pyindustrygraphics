@@ -4,6 +4,7 @@ Date: 2024-1-23
   Features:
     - Added inserter cranes graphics. Credit to JigSaW_3.
     - Improved graphics for warehouses. Credit to JigSaW_3.
+    - Swapped the item icons for warehouses and storehouses.
 ---------------------------------------------------------------------------------------------------
 Version: 3.0.0
 Date: 2024-1-19
